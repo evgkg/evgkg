@@ -14,7 +14,7 @@
   <br/>
   <p align="left">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=linux,git,docker,go,cpp,cs,html,css,js,qt,visualstudio,unreal,unity,arduino,bash" />
+      <img src="https://skillicons.dev/icons?i=linux,git,docker,go,cpp,cs,html,css,js,mysql,qt,visualstudio,unreal,unity,arduino,bash&perline=8" />
     </a>
   </p>
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=weikelake&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="weikelake" /></p>
