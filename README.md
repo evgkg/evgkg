@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning golang
 - 📫 Reach me via **Telegram [@wwtws](https://t.me/wwtws)**
 - ⚡ Fun fact: I have a split tongue
-  
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=weikelake&theme=radical)
 
   <br/>
@@ -17,4 +17,4 @@
       <img src="https://skillicons.dev/icons?i=linux,git,docker,go,cpp,cs,html,css,js,mysql,qt,visualstudio,unreal,unity,arduino,bash&perline=8" />
     </a>
   </p>
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=weikelake&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="weikelake" /></p>
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=weikelake&hide=c%23&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="weikelake" /></p>
